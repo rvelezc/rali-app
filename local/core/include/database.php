@@ -2,10 +2,10 @@
 require_once('time.php');
 require_once('application.php');
 
-$host 		= "192.168.1.110"; 
-$user 		= "encontexto"; 
+$host 		= "192.168.1.40"; 
+$user 		= "rali"; 
 $pass 		= "passw0rd"; 
-$db_name   	= "encontexto"; 
+$db_name   	= "rali_marketing"; 
 $limit      = 10;
 $DB = mysqli_connect($host,$user,$pass,$db_name) or die("Error " . mysqli_error($DB));
 
