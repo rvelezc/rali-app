@@ -1,0 +1,10 @@
+/enco/local/log/*.log {
+        daily
+	size 10k
+        missingok
+        rotate 7
+        compress
+        notifempty
+	create
+	copytruncate
+}
