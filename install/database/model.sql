@@ -4,6 +4,21 @@ SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='TRADITIONAL,ALLOW_INVALID_DATES';
 
 ALTER SCHEMA `rali_marketing`  DEFAULT CHARACTER SET utf8  DEFAULT COLLATE utf8_general_ci ;
 
+CREATE TABLE IF NOT EXISTS `rali_marketing`.`calendar` (
+  `id` INT(11) NOT NULL AUTO_INCREMENT,
+  `calendar_status_id` INT(11) NOT NULL,
+  `payload` TEXT NULL DEFAULT NULL,
+  `batch_id` INT(11) NULL DEFAULT 0,
+  `date_to_process` DATETIME NULL DEFAULT NULL,
+  `date_completed` TIMESTAMP NULL DEFAULT NULL,
+  `date_created` TIMESTAMP NULL DEFAULT NULL,
+  `date_modified` TIMESTAMP NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  PRIMARY KEY (`id`)
+  )
+  ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8
+COLLATE = utf8_general_ci;
+
 CREATE TABLE IF NOT EXISTS `rali_marketing`.`transaction` (
   `id` INT(11) NOT NULL AUTO_INCREMENT,
   `batch_id` INT(11) NOT NULL,
@@ -73,5 +88,8 @@ CREATE TRIGGER tgr_queue_insert BEFORE INSERT on `rali_marketing`.`queue` FOR EA
 DROP TRIGGER IF EXISTS tgr_batch_insert;
 CREATE TRIGGER tgr_batch_insert BEFORE INSERT on `rali_marketing`.`batch` FOR EACH ROW SET NEW.date_created = NOW();
 
+-- Create Trigger for Calendar
+DROP TRIGGER IF EXISTS tgr_calendar_insert;
+CREATE TRIGGER tgr_calendar_insert BEFORE INSERT on `rali_marketing`.`calendar` FOR EACH ROW SET NEW.date_created = NOW();
 
 

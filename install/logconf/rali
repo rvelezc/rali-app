@@ -1,4 +1,4 @@
-/enco/local/log/*.log {
+/rali/rali-app/local/log/*.log {
         daily
 	size 10k
         missingok

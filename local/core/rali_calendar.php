@@ -7,7 +7,7 @@ require_once('include/calendar.php');
 require_once('include/time.php');
 
 global $DB;
-global $ENCO_GLOBAL;   //Thanks to http://www.daniweb.com/web-development/php/code/434480/using-phpmysqli-with-error-checking for the tip
+global $RALI_GLOBAL;   //Thanks to http://www.daniweb.com/web-development/php/code/434480/using-phpmysqli-with-error-checking for the tip
 
 //Script variables, used for tracing and loging
 $script="check_calendar";
@@ -54,7 +54,7 @@ while (true){
 			
 			//call the script to load to queue in the background and move on
 			msg($script,$pid,"Starting loading job:$job_id, batch:$batch_id");
-			exec("./load_to_queue.php $job_id $batch_id >> /enco/local/log/enco.log 2>&1 &");
+			exec("./load_to_queue.php $job_id $batch_id >> /rali/rali-app/local/log/rali.log 2>&1 &");
 			$job_cnt = get_record_count("calendar","id","calendar.date_to_process < NOW() AND calendar.calendar_status_id = 1");
 			debug($script,$pid,"Number of calendar jobs past due $job_cnt");
 	}
@@ -74,8 +74,8 @@ while (true){
 		$jobs_completed = get_record_count("batch,calendar","batch.id","batch.record_count = batch.processed AND calendar.batch_id = batch.id AND calendar.calendar_status_id = 3");
 	}
 	
-	$loop = ($loop + 1)%($ENCO_GLOBAL['calendar_log_resolution']/$ENCO_GLOBAL['check_calendar_resolution']);
-	sleep($ENCO_GLOBAL['check_calendar_resolution']);
+	$loop = ($loop + 1)%($RALI_GLOBAL['calendar_log_resolution']/$RALI_GLOBAL['check_calendar_resolution']);
+	sleep($RALI_GLOBAL['check_calendar_resolution']);
 }
 
 

@@ -29,8 +29,8 @@ while (true){
                 $process_id = mark_records_to_process($batch_id, $pid);
                 
 		echo_ts($script,$pid,"Starting process:$process_id, batch:$batch_id");
-		//exec("./process.php $process_id >> /enco/local/log/enco.log 2>&1");		
-		$child_pid =  exec("./process.php $process_id >> /enco/local/log/enco.log 2>&1 & echo $!");
+		//exec("./process.php $process_id >> /rali/rali-app/local/log/rali.log 2>&1");		
+		$child_pid =  exec("./process.php $process_id >> /rali/rali-app/local/log/rali.log 2>&1 & echo $!");
                 array_push($process_pool,$child_pid);
                 echo "new PID: $child_pid   Process Pool Count  ".count($process_pool)."\n";
                 while (count($process_pool) >= $ENCO_GLOBAL['workers'])
