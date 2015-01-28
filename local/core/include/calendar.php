@@ -18,16 +18,11 @@ function update_calendar($id,$st,$b_id){
 //We get the records needed for the queue
 function get_cal_info(){
 	$query = "
-		SELECT 	calendar.id, client.name as client, campaign.name as campaign, list.name as list, content_type.type as content_type
-		FROM 	calendar, client, campaign, list, content, content_type
-		WHERE 	calendar.campaign_id = campaign.id 
-			AND	campaign.client_id = client.id
-			AND list.id = calendar.list_id
-			AND calendar.content_id = content.id
-			AND content.content_type_id = content_type.id
-			AND	calendar.date_to_process < NOW() 
+		SELECT 	calendar.id, payload
+		FROM 	calendar
+		WHERE 	calendar.date_to_process < NOW() 
 			AND calendar.calendar_status_id = 1
-			AND calendar.campaign_id = (SELECT max(calendar.campaign_id) FROM calendar WHERE calendar.date_to_process < NOW() AND calendar.calendar_status_id = 1);
+			;
 
 		";
 	$rs=execute_query($query);
@@ -37,16 +32,9 @@ function get_cal_info(){
 //We get the records needed for the queue
 function get_cal_records($j_id){
 	$query = "
-		SELECT 	client.id as client_id, batch_id, client.name as client, campaign.name as campaign, list.name as list, contact.email as contact, content_type.type as content_type, content.content
-		FROM 	calendar, client, campaign, list, list_has_contact, contact, content, content_type
-		WHERE 	calendar.campaign_id = campaign.id 
-			AND	campaign.client_id = client.id
-			AND list.id = calendar.list_id
-			AND contact.id = list_has_contact.contact_id
-			AND list.id = list_has_contact.list_id
-			AND calendar.content_id = content.id
-			AND content.content_type_id = content_type.id
-			AND calendar.id = $j_id
+		SELECT 	batch_id, payload
+		FROM 	calendar
+		WHERE 	calendar.id = $j_id
 		";
 	$rs=execute_query($query);
 	return $rs;

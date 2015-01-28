@@ -25,22 +25,22 @@ while (true){
 		
 			//Create a new batch and get its id
 			$batch = insert_new_batch();
-			debug($script,$pid,"New Batch Created $batch");
+			debug($script,$pid,"New Batch Created ".$batch['name']);
 			
 			//Get the records
-			$jobs = get_cal_info($batch['id']); 
+			$jobs = get_cal_info(); 
 			debug($script,$pid,"Calendar info obtained");
 			$row = mysqli_fetch_assoc($jobs);
 			
 			
 			//Update the batch info
 			$batch['record_count'] = $jobs->num_rows;
-			$batch['name'] = $row['client'] . "-" . $row['id'] ;
-			$batch['description'] = $row['client'] . "-" . $row['campaign'] . "-" . $row['list'] . "-" . $row['content_type'];
+			$batch['name'] = $row['payload'] ;
+			$batch['description'] = $row['payload'];
 			$job_id=$row['id'];
 			$batch_id = $batch['id'];
 			insert_update_record("batch",$batch);
-			debug($script,$pid,"Batch $batch_id updated");
+			debug($script,$pid,"Batch ".$batch_id." updated");
 			
 			//Update Calendar to Loading so next loop dont get it
 			/* 	1	Created
@@ -50,7 +50,7 @@ while (true){
 			*/
 			$status = 2;
 			update_calendar($job_id,$status,$batch_id);
-			debug($script,$pid,"Calendar entry for job $job_id updated with batch $batch_id");
+			debug($script,$pid,"Calendar entry for job ".$job_id." updated with batch ".$batch_id);
 			
 			//call the script to load to queue in the background and move on
 			msg($script,$pid,"Starting loading job:$job_id, batch:$batch_id");

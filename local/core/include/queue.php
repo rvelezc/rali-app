@@ -3,7 +3,7 @@
 require_once('application.php');
 require_once('database.php');
 global $DB;
-global $ENCO_GLOBAL;   //Thanks to http://www.daniweb.com/web-development/php/code/434480/using-phpmysqli-with-error-checking for the tip
+global $RALI_GLOBAL;   //Thanks to http://www.daniweb.com/web-development/php/code/434480/using-phpmysqli-with-error-checking for the tip
 //Insert a new batch
 
 function insert_new_batch() {
@@ -11,7 +11,6 @@ function insert_new_batch() {
     $new_batch = array(
         'name' => 'new',
         'description' => 'new',
-        'from_calendar' => '1',
         'record_count' => '0'
     );
     $batch_id = insert_update_record("batch", $new_batch, true);
@@ -35,7 +34,7 @@ function get_queue_records($batch, $lim) {
 //Obtain the data to process with a specific process id
 function get_processes($p) {
     $query = "
-			SELECT 	id, client_id, batch_id, client, content_type, content, campaign, list, contact 
+			SELECT 	id, batch_id, payload 
 			FROM 	queue
 			WHERE 	process_id = $p
 			";
@@ -91,9 +90,9 @@ function get_available_batchs() {
 }
 
 function mark_records_to_process($batch_id, $pid) {
-    global $DB, $ENCO_GLOBAL;
+    global $DB, $RALI_GLOBAL;
     mysqli_autocommit($DB, FALSE);
-    $jobs = get_queue_records($batch_id, $ENCO_GLOBAL['batch_limit']);
+    $jobs = get_queue_records($batch_id, $RALI_GLOBAL['batch_limit']);
 
     //Load data in array
     $data = array();
@@ -111,7 +110,7 @@ function mark_records_to_process($batch_id, $pid) {
     return ($process_id);
 }
 
-function clean_workers(&$process_pool) {
+function clean_workers($process_pool) {
     for ($i = 0; $i < count($process_pool); $i++) {
 
         if (!isProcessRunning($process_pool[$i])) {

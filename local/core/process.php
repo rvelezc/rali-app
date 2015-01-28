@@ -6,7 +6,7 @@ require_once('include/calendar.php');
 require_once('include/time.php');
 
 global $DB;
-global $ENCO_GLOBAL;   //Thanks to http://www.daniweb.com/web-development/php/code/434480/using-phpmysqli-with-error-checking for the tip
+//global $RALI_GLOBAL;   //Thanks to http://www.daniweb.com/web-development/php/code/434480/using-phpmysqli-with-error-checking for the tip
 
 //Globals
 $script="process";
@@ -28,22 +28,12 @@ while ($row = $processes->fetch_assoc()) {
 //Process records 
 foreach($data_process as $row) {
 	$res = array();
-	$dest = $row['contact'];
-	$type = $row['content_type'];
-	switch ($type) {
-		case "email":
-			msg($script,$pid,"Sending mail to $dest\n");
-			$res = send_email();    
-			$row['error'] = $res['error'];
-			$row['response'] = $res['response'];
-			break;
-		case "SMS":
-			echo "SMS";
-			break;
-		default:
-			echo "Other";
-			break;
-	}
+	$payload = $row['payload'];
+	msg($script,$pid,"Sending mail to $dest\n");
+	$res = process_payload();    
+	$row['error'] = $res['error'];
+	$row['response'] = $res['response'];
+
 	
 	
 	//Push data to insert data after processed and invalidate id column
@@ -70,7 +60,7 @@ delete_queue_records($process_id);
 debug($script,$pid,"Queue cleaned");
  
 //This function sends an email
-function send_email(){
+function process_payload(){
 	$r = array (
 		'error' => '0',
 		'response' => "Success"

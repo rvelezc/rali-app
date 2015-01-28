@@ -7,7 +7,7 @@ require_once('include/calendar.php');
 require_once('include/time.php');
 
 global $DB;
-global $ENCO_GLOBAL;   //Thanks to http://www.daniweb.com/web-development/php/code/434480/using-phpmysqli-with-error-checking for the tip
+global $RALI_GLOBAL;   //Thanks to http://www.daniweb.com/web-development/php/code/434480/using-phpmysqli-with-error-checking for the tip
 $script="load_to_queue";
 $pid=getmypid();
 
@@ -35,7 +35,7 @@ echo_ts($script,$pid,"Loading data into queue");
 $i = 0;
 while ($row = $jobs->fetch_assoc()) {
     array_push($data, $row);
-    $i = ($i + 1) % $ENCO_GLOBAL['batch_insert_limit'];
+    $i = ($i + 1) % $RALI_GLOBAL['batch_insert_limit'];
     if ($i == 0){
         insert_multiple_records ("queue",$data);
         $data = array();
