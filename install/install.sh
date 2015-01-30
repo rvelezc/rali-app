@@ -10,8 +10,13 @@ cd ../daemons
 echo "Installing Daemons..."
 rm -f /etc/init/rali_*.conf
 cp rali_*.conf /etc/init
+rm -f /etc/init.d/rali_calendar
+rm -f /etc/init.d/rali_queue
+cp rali_calendar /etc/init.d/
+cp rali_queue /etc/init.d/
+update-rc.d rali_queue defaults
+update-rc.d rali_calendar defaults
 
-exit 0;
 
 cd ../logconf
 echo "Installing Logrotate config"

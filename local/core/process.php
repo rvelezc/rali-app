@@ -29,7 +29,7 @@ while ($row = $processes->fetch_assoc()) {
 foreach($data_process as $row) {
 	$res = array();
 	$payload = $row['payload'];
-	msg($script,$pid,"Sending mail to $dest\n");
+	msg($script,$pid,"Sending mail to ".$row['payload']."\n");
 	$res = process_payload();    
 	$row['error'] = $res['error'];
 	$row['response'] = $res['response'];

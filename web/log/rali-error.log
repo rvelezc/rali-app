@@ -1,0 +1,25 @@
+[Wed Jan 28 19:05:47 2015] [alert] [client 192.168.1.110] /rali/rali-app/web/html/api/v1/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration, referer: http://192.168.1.40/
+[Wed Jan 28 19:05:47 2015] [alert] [client 192.168.1.110] /rali/rali-app/web/html/api/v1/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration, referer: http://192.168.1.40/
+[Wed Jan 28 19:05:47 2015] [error] [client 192.168.1.110] File does not exist: /rali/rali-app/web/html/favicon.ico
+[Thu Jan 29 08:20:55 2015] [alert] [client 192.168.1.110] /rali/rali-app/web/html/api/v1/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration, referer: http://192.168.1.40/
+[Thu Jan 29 08:20:58 2015] [alert] [client 192.168.1.110] /rali/rali-app/web/html/api/v1/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration, referer: http://192.168.1.40/
+[Thu Jan 29 08:21:16 2015] [alert] [client 192.168.1.110] /rali/rali-app/web/html/api/v1/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration, referer: http://192.168.1.40/
+[Thu Jan 29 08:21:30 2015] [alert] [client 192.168.1.110] /rali/rali-app/web/html/api/v1/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration, referer: http://192.168.1.40/
+[Thu Jan 29 08:21:40 2015] [error] [client 192.168.1.110] File does not exist: /rali/rali-app/web/html/js/angular-route.min.js.map, referer: http://192.168.1.40/
+[Thu Jan 29 08:21:40 2015] [error] [client 192.168.1.110] File does not exist: /rali/rali-app/web/html/js/angular-animate.min.js.map, referer: http://192.168.1.40/
+[Thu Jan 29 08:21:40 2015] [error] [client 192.168.1.110] File does not exist: /rali/rali-app/web/html/js/angular.min.js.map, referer: http://192.168.1.40/
+[Thu Jan 29 08:22:07 2015] [alert] [client 192.168.1.110] /rali/rali-app/web/html/api/v1/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration, referer: http://192.168.1.40/
+[Thu Jan 29 08:22:07 2015] [alert] [client 192.168.1.110] /rali/rali-app/web/html/api/v1/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration, referer: http://192.168.1.40/
+[Thu Jan 29 08:22:07 2015] [error] [client 192.168.1.110] File does not exist: /rali/rali-app/web/html/js/angular.min.js.map, referer: http://192.168.1.40/
+[Thu Jan 29 08:22:07 2015] [error] [client 192.168.1.110] File does not exist: /rali/rali-app/web/html/js/angular-route.min.js.map, referer: http://192.168.1.40/
+[Thu Jan 29 08:22:07 2015] [error] [client 192.168.1.110] File does not exist: /rali/rali-app/web/html/js/angular-animate.min.js.map, referer: http://192.168.1.40/
+[Thu Jan 29 08:25:50 2015] [error] [client 192.168.1.110] File does not exist: /rali/rali-app/web/html/js/angular.min.js.map, referer: http://192.168.1.40/
+[Thu Jan 29 08:25:50 2015] [error] [client 192.168.1.110] File does not exist: /rali/rali-app/web/html/js/angular-route.min.js.map, referer: http://192.168.1.40/
+[Thu Jan 29 08:25:51 2015] [error] [client 192.168.1.110] File does not exist: /rali/rali-app/web/html/js/angular-animate.min.js.map, referer: http://192.168.1.40/
+[Thu Jan 29 08:30:06 2015] [error] [client 192.168.1.110] File does not exist: /rali/rali-app/web/html/js/angular.min.js.map, referer: http://192.168.1.40/
+[Thu Jan 29 08:30:06 2015] [error] [client 192.168.1.110] File does not exist: /rali/rali-app/web/html/js/angular-route.min.js.map, referer: http://192.168.1.40/
+[Thu Jan 29 08:30:06 2015] [error] [client 192.168.1.110] File does not exist: /rali/rali-app/web/html/js/angular-animate.min.js.map, referer: http://192.168.1.40/
+[Thu Jan 29 08:30:12 2015] [error] [client 192.168.1.110] File does not exist: /rali/rali-app/web/html/js/angular.min.js.map, referer: http://192.168.1.40/
+[Thu Jan 29 08:30:12 2015] [error] [client 192.168.1.110] File does not exist: /rali/rali-app/web/html/js/angular-route.min.js.map, referer: http://192.168.1.40/
+[Thu Jan 29 08:30:12 2015] [error] [client 192.168.1.110] File does not exist: /rali/rali-app/web/html/js/angular-animate.min.js.map, referer: http://192.168.1.40/
+[Thu Jan 29 17:38:56 2015] [error] [client 192.168.1.110] Directory index forbidden by Options directive: /rali/rali-app/web/html/new/
