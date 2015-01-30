@@ -23,3 +23,6 @@
 [Thu Jan 29 08:30:12 2015] [error] [client 192.168.1.110] File does not exist: /rali/rali-app/web/html/js/angular-route.min.js.map, referer: http://192.168.1.40/
 [Thu Jan 29 08:30:12 2015] [error] [client 192.168.1.110] File does not exist: /rali/rali-app/web/html/js/angular-animate.min.js.map, referer: http://192.168.1.40/
 [Thu Jan 29 17:38:56 2015] [error] [client 192.168.1.110] Directory index forbidden by Options directive: /rali/rali-app/web/html/new/
+[Fri Jan 30 08:48:03 2015] [error] [client 192.168.1.110] File does not exist: /rali/rali-app/web/html/new/assets/plugins/css, referer: http://192.168.1.40/new/
+[Fri Jan 30 08:48:37 2015] [error] [client 192.168.1.110] File does not exist: /rali/rali-app/web/html/new/assets/plugins/css, referer: http://192.168.1.40/new/
+[Fri Jan 30 08:49:04 2015] [error] [client 192.168.1.110] File does not exist: /rali/rali-app/web/html/new/assets/plugins/css, referer: http://192.168.1.40/new/

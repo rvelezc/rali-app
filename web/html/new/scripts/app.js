@@ -11,6 +11,8 @@ angular
     'xeditable',
     'flow',
     'theme.services',
+	'Data',
+	'Authentication',
     'theme.directives',
     'theme.navigation-controller',
     'theme.notifications-controller',
@@ -56,6 +58,7 @@ angular
     'ngSanitize',
     'ngRoute',
     'ngAnimate',
+	'toaster',
   ])
   .controller('MainController', ['$scope', '$global', '$timeout', 'progressLoader', '$location', function ($scope, $global, $timeout, progressLoader, $location) {
     $scope.style_fixedHeader = $global.get('fixedHeader');
@@ -218,10 +221,48 @@ angular
           }]
         }
       })
+	  .when('/login', {
+        templateUrl: 'views/login.html',
+        controller: 'AuthenticationController'
+      })
+	  .when('/logout', {
+        templateUrl: 'partials/login.html',
+        controller: 'AuthenticationController'
+      })
+	  .when('/signup', {
+        templateUrl: 'views/signup.html',
+        controller: 'AuthenticationController'
+      })
+	  .when('/', {
+        templateUrl: 'views/login.html',
+        controller: 'AuthenticationController',
+        role: '0'
+      })
       .when('/:templateFile', {
         templateUrl: function (param) { return 'views/'+param.templateFile+'.html' }
       })
       .otherwise({
-        redirectTo: '/'
+        redirectTo: '/login'
       });
-  }]);
+  }])
+    .run(function ($rootScope, $location, Data) {
+        $rootScope.$on("$routeChangeStart", function (event, next, current) {
+            $rootScope.authenticated = false;
+            Data.get('session').then(function (results) {
+                if (results.uid) {
+                    $rootScope.authenticated = true;
+                    $rootScope.uid = results.uid;
+                    $rootScope.name = results.name;
+                    $rootScope.email = results.email;
+                } else {
+                    var nextUrl = next.$$route.originalPath;
+                    if (nextUrl == '/signup' || nextUrl == '/login') {
+
+                    } else {
+                        $location.path("/login");
+                    }
+                }
+            });
+        });
+    })
+  ;

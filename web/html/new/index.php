@@ -54,6 +54,7 @@
     <link rel='stylesheet' type='text/css' href='assets/plugins/codeprettifier/prettify.css' />
     <link rel='stylesheet' type='text/css' href='assets/plugins/form-select2/select2.css' />
     <link rel='stylesheet' type='text/css' href='assets/plugins/fullcalendar/fullcalendar.css' />
+	<link rel='stylesheet' type='text/css' href='assets/plugins/toaster/toaster.css' />
     <!-- endbuild -->
 
     <!-- build:css({.tmp,app}) assets/css/main.css -->
@@ -569,6 +570,7 @@
     <script type='text/javascript' src='assets/plugins/form-colorpicker/js/bootstrap-colorpicker.min.js'></script> 
     <script type='text/javascript' src='assets/plugins/form-fseditor/jquery.fseditor-min.js'></script> 
     <script type='text/javascript' src='assets/plugins/form-jasnyupload/fileinput.js'></script> 
+	<script type='text/javascript' src='assets/plugins/toaster/toaster.js'></script> 
 
     <script type='text/javascript' src='assets/plugins/progress-skylo/skylo.js'></script> 
     
@@ -578,6 +580,7 @@
       <!-- build:js({.tmp,app}) scripts/scripts.js -->
       <script src="scripts/shared/Services.js"></script>
       <script src="scripts/shared/Directives.js"></script>
+	  <script src="scripts/shared/Data.js"></script>
       <script src="scripts/maps/VectorMaps.js"></script>
       <script src="scripts/maps/GoogleMaps.js"></script>
       <script src="scripts/calendar/Calendar.js"></script>
@@ -617,6 +620,7 @@
       <script src="scripts/controllers/Messages.js"></script>
       <script src="scripts/controllers/ColorPicker.js"></script>
       <script src="scripts/controllers/Dashboard.js"></script>
+	  <script src="scripts/controllers/Authentication.js"></script>
       <script src="scripts/app.js"></script>
       <!-- endbuild -->
 
