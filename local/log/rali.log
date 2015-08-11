@@ -17494,3 +17494,19 @@ PHP Notice:  Array to string conversion in /rali/rali-app/local/core/process.php
 08-11-2015 15:58:46: 3225: check_calendar: debug: Number of calendar jobs past due 0
 08-11-2015 15:58:46: 3225: check_calendar: No jobs on calendar to process
 08-11-2015 15:58:46: 3225: check_calendar: debug: 0 jobs on calendar completed
+08-11-2015 15:58:48: 3228: check_queue: No jobs on queue
+08-11-2015 15:58:53: 3228: check_queue: No jobs on queue
+08-11-2015 15:58:56: 3225: check_calendar: debug: Number of calendar jobs past due 0
+08-11-2015 15:58:56: 3225: check_calendar: No jobs on calendar to process
+08-11-2015 15:58:56: 3225: check_calendar: debug: 0 jobs on calendar completed
+08-11-2015 15:58:58: 3228: check_queue: No jobs on queue
+08-11-2015 15:59:03: 3228: check_queue: No jobs on queue
+08-11-2015 15:59:06: 3225: check_calendar: debug: Number of calendar jobs past due 0
+08-11-2015 15:59:06: 3225: check_calendar: No jobs on calendar to process
+08-11-2015 15:59:06: 3225: check_calendar: debug: 0 jobs on calendar completed
+08-11-2015 15:59:08: 3228: check_queue: No jobs on queue
+08-11-2015 15:59:14: 3228: check_queue: No jobs on queue
+08-11-2015 15:59:16: 3225: check_calendar: debug: Number of calendar jobs past due 0
+08-11-2015 15:59:16: 3225: check_calendar: No jobs on calendar to process
+08-11-2015 15:59:16: 3225: check_calendar: debug: 0 jobs on calendar completed
+08-11-2015 15:59:19: 3228: check_queue: No jobs on queue

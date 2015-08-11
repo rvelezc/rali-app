@@ -1,0 +1,36 @@
+/*  Calendar Styles */
+
+
+/* Completed task */
+div.fc-event.completed-task div.fc-event-inner
+{
+    background-image: url('../img/social/yes-32.png');
+	background-size: 100%;
+    background-position: bottom right;
+    background-repeat: no-repeat;
+	height: 16px;
+	width: 16px;
+}
+
+/* Facebook task */
+div.fc-event.facebook-task div.fc-event-inner
+{
+    background-image: url('../img/social/facebook-w32.png');
+	background-size: 100%;
+    background-position: bottom right;
+    background-repeat: no-repeat;
+	height: 16px;
+	width: 16px;
+}
+
+/* Mail task */
+div.fc-event.email-task div.fc-event-inner
+{
+    background-image: url('../img/social/email-w32.png');
+	background-size: 100%;
+    background-position: bottom right;
+    background-repeat: no-repeat;
+	height: 16px;
+	width: 16px;
+}
+
