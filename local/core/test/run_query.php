@@ -3,7 +3,7 @@
 require_once('../include/database.php');
 
 if (count($argv) <= 1) {
-    echo "No arguments provided, please provide query and optionally sleep time and iterations\n";
+    echo "No arguments provided, please provide sleep time and iterations\n";
     exit(99);
 }
 
@@ -17,8 +17,8 @@ if (is_null($sleep_time) || $sleep_time == '') {
 }
 
 
-$query = "select name,(processed / record_count) * 100 as percentage, date_created, date_modified from batch";
-//$query = "select * from calendar";
+//$query = "select name,(processed / record_count) * 100 as percentage, date_created, date_modified from batch";
+$query = "select * from calendar";
 
 while ($iterations > 0 || is_null($iterations)){
     $rs=execute_query($query);

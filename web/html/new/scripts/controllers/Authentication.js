@@ -1,33 +1,33 @@
 angular.module('Authentication', [])
-	.controller('AuthenticationController', function ($scope, $rootScope, $routeParams, $location, $http, Data) {
+.controller('AuthenticationController', function ($scope, $rootScope, $routeParams, $location, $http, Data, $global) {
     //initially set those objects to null to avoid undefined error
     $scope.login = {};
     $scope.signup = {};
-    $scope.doLogin = function (customer) {
+	$global.set('fullscreen', true);
+	
+    $scope.$on('$destroy', function () {
+		$global.set('fullscreen', false);
+	});
+	
+    $scope.doLogin = function (user) {
         Data.post('login', {
-            customer: customer
-        }).then(function (results) {
+            user: user
+			}).then(function (results) {
             Data.toast(results);
             if (results.status == "success") {
-                $location.path('dashboard');
-            }
-        });
-    };
+                $location.path('');
+			}
+		});
+	};
     $scope.signup = {email:'',password:'',name:'',phone:'',address:''};
-    $scope.signUp = function (customer) {
+    $scope.signUp = function (user) {
         Data.post('signUp', {
-            customer: customer
-        }).then(function (results) {
+            user: user
+			}).then(function (results) {
             Data.toast(results);
             if (results.status == "success") {
-                $location.path('dashboard');
-            }
-        });
-    };
-    $scope.logout = function () {
-        Data.get('logout').then(function (results) {
-            Data.toast(results);
-            $location.path('login');
-        });
-    }
+                $location.path('');
+			}
+		});
+	};
 });

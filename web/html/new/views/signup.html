@@ -2,13 +2,13 @@
 	<a href="#/"><img src="assets/img/logo-big.png" alt="Logo" class="brand" /></a>
 	<div class="panel panel-primary">
 		<div class="panel-body">
-			<h4 class="text-center" style="margin-bottom: 25px;">Log in to get started or <a href="#/extras-signupform">Sign Up</a></h4>
-				<form action="#" class="form-horizontal" style="margin-bottom: 0px !important;">
+			<h4 class="text-center" style="margin-bottom: 25px;">Log in to get started or <a href="#/signup">Sign Up</a></h4>
+				<form action="#" name="signupForm" class="form-horizontal" style="margin-bottom: 0px !important;">
 						<div class="form-group">
 							<div class="col-sm-12">
 								<div class="input-group">
-									<span class="input-group-addon"><i class="fa fa-user"></i></span>
-									<input type="text" class="form-control" id="username" placeholder="Username">
+									<span class="input-group-addon"><i class="fa fa-envelope-o"></i></span>
+									<input type="text" class="form-control" id="email" placeholder="Email" name="email" ng-model="signup.email" required focus>
 								</div>
 							</div>
 						</div>
@@ -16,22 +16,53 @@
 							<div class="col-sm-12">
 								<div class="input-group">
 									<span class="input-group-addon"><i class="fa fa-lock"></i></span>
-									<input type="password" class="form-control" id="password" placeholder="Password">
+									<input type="password" class="form-control" id="password" placeholder="Password" name = "password"  ng-model="signup.password" required>
+								</div>
+								<small class="errorMessage" data-ng-show="signupForm.password.$dirty && signupForm.password.$invalid"> Enter Password.</small>
+							</div>
+						</div>
+						<div class="form-group">
+							<div class="col-sm-12">
+								<div class="input-group">
+									<span class="input-group-addon"><i class="fa fa-lock"></i></span>
+									<input type="password" class="form-control" id="password" placeholder="Confirm Password" name = "password2"  ng-model="signup.password2" password-match="signup.password" required>
+									
+								</div>
+								<small class="errorMessage" data-ng-show="signupForm.password2.$dirty && signupForm.password2.$error.required"> Enter password again.</small>
+
+									<small class="errorMessage" data-ng-show="signupForm.password2.$dirty && signupForm.password2.$error.passwordNoMatch && !signupForm.password2.$error.required"> Password do not match.</small>
+							</div>
+						</div>
+						<div class="form-group">
+							<div class="col-sm-12">
+								<div class="input-group">
+									<span class="input-group-addon"><i class="fa fa-user"></i></span>
+									<input type="text" class="form-control" id="name" placeholder="Name" name = "name"  ng-model="signup.name" required>
+									<small class="errorMessage" data-ng-show="signupForm.password.$dirty && signupForm.password.$invalid"> Enter Password.</small>
 								</div>
 							</div>
 						</div>
+						<!-- <div class="form-group">
+							<div class="col-sm-12">
+								<div class="input-group">
+									<span class="input-group-addon"><i class="fa fa-phone"></i></span>
+									<input type="text" class="form-control" id="phone" placeholder="Phone" name = "phone"  ng-model="signup.phone" required>
+									<small class="errorMessage" data-ng-show="signupForm.password.$dirty && signupForm.password.$invalid"> Enter Password.</small>
+								</div>
+							</div>
+						</div> 
 						<div class="clearfix">
 							<div class="pull-right"><label><input type="checkbox" style="margin-bottom: 20px" checked=""> Remember Me</label></div>
-						</div>
+						</div> -->
 					</form>
 					
 		</div>
 		<div class="panel-footer">
-			<a href="#/" class="pull-left btn btn-link" style="padding-left:0">Forgot password?</a>
+			<a href="#/login" class="pull-left btn btn-link" style="padding-left:0">Back to Login?</a>
 			
 			<div class="pull-right">
-				<a href="#" class="btn btn-default">Reset</a>
-				<a href="#/" class="btn btn-primary">Log In</a>
+				<button href="#" class="btn btn-default">Reset</button>
+				<button href="#/" class="btn btn-primary" ng-click="signUp(signup)" data-ng-disabled="signupForm.$invalid">Sign Up</button>
 			</div>
 		</div>
 	</div>

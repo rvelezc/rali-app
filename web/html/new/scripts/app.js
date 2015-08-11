@@ -53,6 +53,8 @@ angular
     'theme.dashboard',
     'theme.templates',
     'theme.template-overrides',
+	'theme.settings',
+	'theme.accounts',
     'ngCookies',
     'ngResource',
     'ngSanitize',
@@ -60,8 +62,9 @@ angular
     'ngAnimate',
 	'toaster',
   ])
-  .controller('MainController', ['$scope', '$global', '$timeout', 'progressLoader', '$location', function ($scope, $global, $timeout, progressLoader, $location) {
-    $scope.style_fixedHeader = $global.get('fixedHeader');
+  .controller('MainController', ['$scope', '$global', '$timeout', 'progressLoader', '$location','Data', function ($scope, $global, $timeout, progressLoader, $location, Data) {
+    
+	$scope.style_fixedHeader = $global.get('fixedHeader');
     $scope.style_headerBarHidden = $global.get('headerBarHidden');
     $scope.style_layoutBoxed = $global.get('layoutBoxed');
     $scope.style_fullscreen = $global.get('fullscreen');
@@ -113,10 +116,14 @@ angular
     // but for the purposes of this demo this will do :P
     $scope.isLoggedIn = true;
     $scope.logOut = function () {
-      $scope.isLoggedIn = false;
+		Data.get('logout').then(function (results) {
+            Data.toast(results);
+            $location.path('login');
+        });
+		$scope.isLoggedIn = false;
     };
     $scope.logIn = function () {
-      $scope.isLoggedIn = true;
+		$scope.isLoggedIn = true;
     };
 
     $scope.rightbarAccordionsShowOne = false;
@@ -226,17 +233,28 @@ angular
         controller: 'AuthenticationController'
       })
 	  .when('/logout', {
-        templateUrl: 'partials/login.html',
+        templateUrl: 'views/login.html',
         controller: 'AuthenticationController'
       })
 	  .when('/signup', {
         templateUrl: 'views/signup.html',
         controller: 'AuthenticationController'
       })
-	  .when('/', {
-        templateUrl: 'views/login.html',
-        controller: 'AuthenticationController',
-        role: '0'
+	  .when('/forgot-pw', {
+        templateUrl: 'views/forgot-pw.html',
+        controller: 'AuthenticationController'
+      })
+	  .when('/change-pw', {
+        templateUrl: 'views/change-pw.html',
+        controller: 'AuthenticationController'
+      })
+	  .when('/settings', {
+        templateUrl: 'views/settings.html',
+        controller: 'SettingsController'
+      })
+	  .when('/accounts', {
+        templateUrl: 'views/accounts.html',
+        controller: 'AccountsController'
       })
       .when('/:templateFile', {
         templateUrl: function (param) { return 'views/'+param.templateFile+'.html' }
@@ -247,18 +265,17 @@ angular
   }])
     .run(function ($rootScope, $location, Data) {
         $rootScope.$on("$routeChangeStart", function (event, next, current) {
-            $rootScope.authenticated = false;
-            Data.get('session').then(function (results) {
+			$rootScope.isLoggedIn = false;
+			Data.get('session').then(function (results) {
                 if (results.uid) {
-                    $rootScope.authenticated = true;
+					$rootScope.isLoggedIn = true;
                     $rootScope.uid = results.uid;
                     $rootScope.name = results.name;
                     $rootScope.email = results.email;
+					$rootScope.avatar="default-avatar.gif";
                 } else {
-                    var nextUrl = next.$$route.originalPath;
-                    if (nextUrl == '/signup' || nextUrl == '/login') {
-
-                    } else {
+					var nextUrl = next.$$route.originalPath;
+                    if (nextUrl != '/signup' && nextUrl != '/login' && nextUrl != '/forgot-pw') {
                         $location.path("/login");
                     }
                 }

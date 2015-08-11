@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="en">
+<html 	lang="en" >
 <head>
   <meta charset="utf-8">
-  <title>Forza</title>
+  <title>Rali Marketing</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Forza">
@@ -60,6 +60,7 @@
     <!-- build:css({.tmp,app}) assets/css/main.css -->
       <link rel="stylesheet" href="assets/css/main.css">
       <link rel="stylesheet" href="assets/css/styles.css">
+	  <link rel="stylesheet" href="assets/css/custom.css">
     <!-- endbuild -->
 
     <!-- prochtml:remove:dist -->
@@ -118,7 +119,7 @@
 </head>
 
 <body class=""
-  ng-app="themesApp"
+  ng-app="themesApp" 
   ng-controller="MainController"
   ng-class="{
               'static-header': !style_fixedHeader,
@@ -181,7 +182,7 @@
                 </div>
 
                 <div class="col-xs-6 col-sm-2">
-                    <a href="#" class="shortcut-tiles tiles-midnightblue">
+                    <a href="#/settings" class="shortcut-tiles tiles-midnightblue">
                         <div class="tiles-body">
                             <div class="pull-left"><i class="fa fa-cog"></i></div>
                         </div>
@@ -207,35 +208,38 @@
 
     <header class="navbar navbar-inverse" ng-class="{'navbar-fixed-top': style_fixedHeader, 'navbar-static-top': !style_fixedHeader}" role="banner">
         <a id="leftmenu-trigger" tooltip-placement="right" tooltip="Toggle Sidebar" ng-click="toggleLeftBar()"></a>
-        <a id="rightmenu-trigger" tooltip-placement="left" tooltip="Toggle Infobar" ng-click="toggleRightBar()"></a>
-
+        <!--
+		<a id="rightmenu-trigger" tooltip-placement="left" tooltip="Toggle Infobar" ng-click="toggleRightBar()"></a>
+		-->
         <div class="navbar-header pull-left">
             <a class="navbar-brand" href="#/">Forza</a>
         </div>
 
         <ul class="nav navbar-nav pull-right toolbar">
           <li class="dropdown" ng-show="!isLoggedIn">
-            <a href="#/extras-login2" style="font-size: 14px"><i class="fa fa-sign-in"></i> Log in</a>
+            <a href="#/login" style="font-size: 14px"><i class="fa fa-sign-in"></i> Log in</a>
           </li>
           <li class="dropdown" ng-show="isLoggedIn">
-            <a href="#" class="dropdown-toggle username"><span class="hidden-xs">Matt Smith</span><img src="assets/demo/avatar/dangerfield.png" alt="Dangerfield" /></a>
+            <a href="#" class="dropdown-toggle username"><span class="hidden-xs">{{name}}</span><img ng-src="assets/img/avatar/{{avatar || 'default-avatar.gif'}}" alt="Dangerfield" /></a>
             <ul class="dropdown-menu userinfo arrow">
               <li class="userlinks">
                 <ul class="dropdown-menu">
-                  <li><a href="#">Edit Profile <i class="pull-right fa fa-fw fa-pencil"></i></a></li>
-                  <li><a href="#">Account <i class="pull-right fa fa-fw fa-user"></i></a></li>
-                  <li><a href="#">Settings <i class="pull-right fa fa-fw fa-cog"></i></a></li>
-                  <li class="divider"></li>
+                  <li><a href="#/profiles">Edit Profile <i class="pull-right fa fa-fw fa-pencil"></i></a></li>
+                  <li><a href="#/accounts">Accounts <i class="pull-right fa fa-fw fa-user"></i></a></li>
+                  <li><a href="#/settings">Settings <i class="pull-right fa fa-fw fa-cog"></i></a></li>
+                  <!-- <li class="divider"></li>
                   <li><a href="#">Earnings <i class="pull-right fa fa-fw fa-dollar"></i></a></li>
                   <li><a href="#">Statement <i class="pull-right fa fa-fw fa-bars"></i></a></li>
                   <li><a href="#">Withdrawals <i class="pull-right fa fa-fw fa-credit-card"></i></a></li>
-                  <li class="divider"></li>
+                  --> 
+				  <li class="divider"></li>
                   <li><a href="" class="text-right" ng-click="logOut()">Sign Out</a></li>
                 </ul>
               </li>
             </ul>
           </li>
-          <li class="dropdown" ng-controller="MessagesController" ng-show="isLoggedIn"
+		  
+          <!-- <li class="dropdown" ng-controller="MessagesController" ng-show="isLoggedIn"
             data-bootstro
             data-bootstro-step="2"
             data-bootstro-placement='bottom'
@@ -265,8 +269,8 @@
                   </div>
               <li class="dd-footer"><a href="#">View All Messages</a></li>
             </ul>
-          </li>
-          <li class="dropdown" ng-controller="NotificationsController" ng-show="isLoggedIn"
+          </li> -->
+          <!-- <li class="dropdown" ng-controller="NotificationsController" ng-show="isLoggedIn"
             data-bootstro
             data-bootstro-step="1"
             data-bootstro-placement='bottom'
@@ -293,11 +297,11 @@
                     </div>
               <li class="dd-footer"><a href="#">View All Notifications</a></li>
             </ul>
-          </li>
-            <li ng-click="showHeaderBar($event)">
+          </li>-->
+            <!-- <li ng-click="showHeaderBar($event)">
                 <a href="" id="headerbardropdown"><span><i class="fa fa-level-down"></i></span></a>
-            </li>
-            <li class="dropdown demodrop" ng-controller="ColorPickerController" data-pulsate="{glow:false, repeat: 3}">
+            </li> -->
+            <!-- <li class="dropdown demodrop" ng-controller="ColorPickerController" data-pulsate="{glow:false, repeat: 3}">
                 <a href="#" class="dropdown-toggle tooltips"><i class="fa fa-cog"></i></a>
 
                 <ul class="dropdown-menu arrow dropdown-menu-form" id="demo-dropdown">
@@ -341,7 +345,7 @@
                 </ul>
                 <link rel="stylesheet" type="text/css" ng-href="assets/demo/variations/{{headerStylesheet}}">
                 <link rel="stylesheet" type="text/css" ng-href="assets/demo/variations/{{sidebarStylesheet}}">
-            </li>
+            </li> -->
     </ul>
     </header>
     <nav class="navbar navbar-default ng-hide" role="navigation" ng-show="style_layoutHorizontal">
@@ -494,7 +498,7 @@
     <footer role="contentinfo">
         <div class="clearfix">
             <ul class="list-unstyled list-inline pull-left">
-                <li>FORZA &copy; 2014</li>
+                <li>Rali Software &copy; 2015</li>
             </ul>
             <button class="pull-right btn btn-default btn-xs hidden-print" back-to-top style="padding: 1px 10px;"><i class="fa fa-angle-up"></i></button>
         </div>
@@ -621,8 +625,12 @@
       <script src="scripts/controllers/ColorPicker.js"></script>
       <script src="scripts/controllers/Dashboard.js"></script>
 	  <script src="scripts/controllers/Authentication.js"></script>
+	  <script src="scripts/controllers/Settings.js"></script>
+	  <script src="scripts/controllers/Accounts.js"></script>
+	 
       <script src="scripts/app.js"></script>
       <!-- endbuild -->
 
 </body>
+<toaster-container toaster-options="{'time-out': 3000}"></toaster-container>
 </html>

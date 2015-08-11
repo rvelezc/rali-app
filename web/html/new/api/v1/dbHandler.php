@@ -17,6 +17,15 @@ class DbHandler {
         $r = $this->conn->query($query.' LIMIT 1') or die($this->conn->error.__LINE__);
         return $result = $r->fetch_assoc();    
     }
+	
+	/**
+			* Fetching single record
+     */
+    public function getRecords($query) {
+        $r = $this->conn->query($query) or die($this->conn->error.__LINE__);
+        return $r;
+    }
+	
     /**
      * Creating new record
      */

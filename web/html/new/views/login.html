@@ -1,14 +1,14 @@
-<div class="verticalcenter" ng-controller="SignupPageController">
+<div class="verticalcenter">
 	<a href="#/"><img src="assets/img/logo-big.png" alt="Logo" class="brand" /></a>
 	<div class="panel panel-primary">
 		<div class="panel-body">
-			<h4 class="text-center" style="margin-bottom: 25px;">Log in to get started or <a href="#/extras-signupform">Sign Up</a></h4>
-				<form action="#" class="form-horizontal" style="margin-bottom: 0px !important;">
+			<h4 class="text-center" style="margin-bottom: 25px;">Log in to get started or <a href="#/signup">Sign Up</a></h4>
+				<form action="#" name="loginForm" class="form-horizontal" style="margin-bottom: 0px !important;">
 						<div class="form-group">
 							<div class="col-sm-12">
 								<div class="input-group">
-									<span class="input-group-addon"><i class="fa fa-user"></i></span>
-									<input type="text" class="form-control" id="username" placeholder="Username">
+									<span class="input-group-addon"><i class="fa fa-envelope-o"></i></span>
+									<input type="text" class="form-control" id="email" placeholder="Email" name="email" ng-model="login.email" required focus>
 								</div>
 							</div>
 						</div>
@@ -16,7 +16,7 @@
 							<div class="col-sm-12">
 								<div class="input-group">
 									<span class="input-group-addon"><i class="fa fa-lock"></i></span>
-									<input type="password" class="form-control" id="password" placeholder="Password">
+									<input type="password" class="form-control" id="password" placeholder="Password" ng-model="login.password" required>
 								</div>
 							</div>
 						</div>
@@ -27,11 +27,11 @@
 					
 		</div>
 		<div class="panel-footer">
-			<a href="#/" class="pull-left btn btn-link" style="padding-left:0">Forgot password?</a>
+			<a href="#/forgot-pw" class="pull-left btn btn-link" style="padding-left:0">Forgot password?</a>
 			
 			<div class="pull-right">
-				<a href="#" class="btn btn-default">Reset</a>
-				<a href="#/" class="btn btn-primary">Log In</a>
+				<button href="#" class="btn btn-default">Reset</button>
+				<button href="#/" class="btn btn-primary" ng-click="doLogin(login)" data-ng-disabled="loginForm.$invalid">Log In</button>
 			</div>
 		</div>
 	</div>
