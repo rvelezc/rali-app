@@ -1,0 +1,13 @@
+<VirtualHost *:80>
+    ServerName marketing.rali-software.com
+    DocumentRoot /rali/web/html
+    CustomLog /rali/web/log/access.log combined
+    ErrorLog /rali/web/log/error.log
+    <Directory /rali/web/html>
+        DirectoryIndex index.php
+        AllowOverride All
+        Order allow,deny
+        Allow from all
+        Options FollowSymLinks
+    </Directory>
+</VirtualHost>
