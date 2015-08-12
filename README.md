@@ -23,6 +23,11 @@ apt-get update && apt-get upgrade
 
 install ssh:
 apt-get install openssh-server
+edit /etc/ssh/sshd_config
+change PermitRootLogin to allow root access with:
+PermitRootLogin yes
+/etc/init.d/ssh restart
+
 
 install vim:
 apt-get install vim
@@ -35,6 +40,8 @@ apt-get install mysql-server
 
 Install PHP
 apt-get install php5 php-pear
+apt-get install php5-curl
+apt-get install sendmail
 
 Install and Configure the app
 apt-get install git-core
@@ -56,31 +63,12 @@ Install Procedure:
     a2ensite rali_marketing.conf
     service apache2 reload
 
--Create the database (Inside model.sql need to assign a new password)
-    cd ../database
-    mysql -uroot -p'yourpassword' < model.sql
-    mysql -uroot -p'yourpassword' --local-infile rali_marketing < setup.sql
-
--Install Daemons
-    cd ../daemons
-    rm -f /etc/init/rali_*.conf
-    cp rali_*.conf /etc/init
-
--Install Daemons as services
-    cd ../daemons
-    rm -f /etc/init.d/rali_calendar
-    cp rali_calendar /etc/init.d/
-    rm -f /etc/init.d/rali_queue
-    cp rali_queue /etc/init.d/
+-Run Installer
+   ./install.sh
     
 -Start services
     service rali_calendar start
     service rali_queue start
-    
--Install Log daemon
-    cd ../logconf
-    rm -f /etc/logrotate.d/rali
-    cp rali /etc/logrotate.d/.
 
 
 

@@ -2,7 +2,8 @@
 require_once('time.php');
 require_once('application.php');
 
-$host 		= "192.168.1.40"; 
+//$host 		= "192.168.1.40"; 
+$host 		= "localhost"; 
 $user 		= "rali"; 
 $pass 		= "passw0rd"; 
 $db_name   	= "rali_marketing"; 

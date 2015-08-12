@@ -1,8 +1,8 @@
 -- # mysql -u root -p 
-drop database rali_marketing;
+drop database IF EXISTS rali_marketing;
 create database rali_marketing;
-drop user rali;
-create user rali;
+-- drop user rali;
+-- create user rali;
 grant usage on *.* to rali@'%' identified by 'passw0rd';
 grant file on *.* to rali@'%' identified by 'passw0rd';
 grant all privileges on rali_marketing.* to rali@'%';

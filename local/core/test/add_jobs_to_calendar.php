@@ -6,7 +6,7 @@ global $db_debug;   //Thanks to http://www.daniweb.com/web-development/php/code/
 
 $now_date = date('Y-m-d H:i:s');
 $future_date = date('Y-m-d H:i:s', strtotime($now_date . '+1 minutes') );
-$now_date = date('Y-m-d H:i:s', strtotime($now_date) );
+//$now_date = date('Y-m-d H:i:s', strtotime($now_date) );
 
 echo "$now_date\n";
 echo "$future_date\n";
