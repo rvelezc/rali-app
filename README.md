@@ -52,9 +52,8 @@ Install Procedure:
 
 -Install Apache config
     cd apache
-    a2dissite default
-    cp -f rali_marketing /etc/apache2/sites-available/default
-    a2ensite default
+    cp -f rali_marketing.conf /etc/apache2/sites-available/rali_marketing.conf
+    a2ensite rali_marketing.conf
     service apache2 reload
 
 -Create the database (Inside model.sql need to assign a new password)
