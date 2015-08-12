@@ -34,6 +34,8 @@ apt-get install vim
 
 Install Apache 2
 apt-get install apache2
+a2enmod rewrite
+service apache2 restart
 
 Install MySQL
 apt-get install mysql-server
@@ -41,6 +43,8 @@ apt-get install mysql-server
 Install PHP
 apt-get install php5 php-pear
 apt-get install php5-curl
+
+Install SendMail
 apt-get install sendmail
 
 Install and Configure the app

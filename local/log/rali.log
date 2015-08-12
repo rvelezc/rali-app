@@ -7927,3 +7927,1115 @@ new PID: 15473   Process Pool Count  1
 08-12-2015 15:33:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
 08-12-2015 15:33:57: 13658: check_calendar: No jobs on calendar to process
 08-12-2015 15:33:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:33:59: 13661: check_queue: No jobs on queue
+08-12-2015 15:34:04: 13661: check_queue: No jobs on queue
+08-12-2015 15:34:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:34:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:34:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:34:09: 13661: check_queue: No jobs on queue
+08-12-2015 15:34:14: 13661: check_queue: No jobs on queue
+08-12-2015 15:34:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:34:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:34:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:34:19: 13661: check_queue: No jobs on queue
+08-12-2015 15:34:24: 13661: check_queue: No jobs on queue
+08-12-2015 15:34:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:34:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:34:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:34:29: 13661: check_queue: No jobs on queue
+08-12-2015 15:34:34: 13661: check_queue: No jobs on queue
+08-12-2015 15:34:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:34:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:34:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:34:39: 13661: check_queue: No jobs on queue
+08-12-2015 15:34:44: 13661: check_queue: No jobs on queue
+08-12-2015 15:34:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:34:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:34:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:34:49: 13661: check_queue: No jobs on queue
+08-12-2015 15:34:54: 13661: check_queue: No jobs on queue
+08-12-2015 15:34:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:34:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:34:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:34:59: 13661: check_queue: No jobs on queue
+08-12-2015 15:35:04: 13661: check_queue: No jobs on queue
+08-12-2015 15:35:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:35:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:35:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:35:09: 13661: check_queue: No jobs on queue
+08-12-2015 15:35:14: 13661: check_queue: No jobs on queue
+08-12-2015 15:35:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:35:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:35:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:35:19: 13661: check_queue: No jobs on queue
+08-12-2015 15:35:24: 13661: check_queue: No jobs on queue
+08-12-2015 15:35:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:35:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:35:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:35:29: 13661: check_queue: No jobs on queue
+08-12-2015 15:35:34: 13661: check_queue: No jobs on queue
+08-12-2015 15:35:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:35:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:35:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:35:39: 13661: check_queue: No jobs on queue
+08-12-2015 15:35:44: 13661: check_queue: No jobs on queue
+08-12-2015 15:35:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:35:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:35:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:35:49: 13661: check_queue: No jobs on queue
+08-12-2015 15:35:54: 13661: check_queue: No jobs on queue
+08-12-2015 15:35:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:35:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:35:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:35:59: 13661: check_queue: No jobs on queue
+08-12-2015 15:36:04: 13661: check_queue: No jobs on queue
+08-12-2015 15:36:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:36:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:36:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:36:09: 13661: check_queue: No jobs on queue
+08-12-2015 15:36:14: 13661: check_queue: No jobs on queue
+08-12-2015 15:36:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:36:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:36:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:36:19: 13661: check_queue: No jobs on queue
+08-12-2015 15:36:24: 13661: check_queue: No jobs on queue
+08-12-2015 15:36:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:36:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:36:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:36:29: 13661: check_queue: No jobs on queue
+08-12-2015 15:36:34: 13661: check_queue: No jobs on queue
+08-12-2015 15:36:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:36:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:36:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:36:39: 13661: check_queue: No jobs on queue
+08-12-2015 15:36:44: 13661: check_queue: No jobs on queue
+08-12-2015 15:36:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:36:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:36:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:36:49: 13661: check_queue: No jobs on queue
+08-12-2015 15:36:54: 13661: check_queue: No jobs on queue
+08-12-2015 15:36:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:36:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:36:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:36:59: 13661: check_queue: No jobs on queue
+08-12-2015 15:37:04: 13661: check_queue: No jobs on queue
+08-12-2015 15:37:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:37:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:37:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:37:09: 13661: check_queue: No jobs on queue
+08-12-2015 15:37:14: 13661: check_queue: No jobs on queue
+08-12-2015 15:37:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:37:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:37:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:37:19: 13661: check_queue: No jobs on queue
+08-12-2015 15:37:24: 13661: check_queue: No jobs on queue
+08-12-2015 15:37:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:37:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:37:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:37:29: 13661: check_queue: No jobs on queue
+08-12-2015 15:37:34: 13661: check_queue: No jobs on queue
+08-12-2015 15:37:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:37:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:37:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:37:39: 13661: check_queue: No jobs on queue
+08-12-2015 15:37:44: 13661: check_queue: No jobs on queue
+08-12-2015 15:37:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:37:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:37:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:37:49: 13661: check_queue: No jobs on queue
+08-12-2015 15:37:54: 13661: check_queue: No jobs on queue
+08-12-2015 15:37:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:37:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:37:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:37:59: 13661: check_queue: No jobs on queue
+08-12-2015 15:38:04: 13661: check_queue: No jobs on queue
+08-12-2015 15:38:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:38:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:38:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:38:09: 13661: check_queue: No jobs on queue
+08-12-2015 15:38:14: 13661: check_queue: No jobs on queue
+08-12-2015 15:38:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:38:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:38:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:38:19: 13661: check_queue: No jobs on queue
+08-12-2015 15:38:24: 13661: check_queue: No jobs on queue
+08-12-2015 15:38:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:38:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:38:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:38:29: 13661: check_queue: No jobs on queue
+08-12-2015 15:38:34: 13661: check_queue: No jobs on queue
+08-12-2015 15:38:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:38:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:38:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:38:39: 13661: check_queue: No jobs on queue
+08-12-2015 15:38:44: 13661: check_queue: No jobs on queue
+08-12-2015 15:38:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:38:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:38:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:38:49: 13661: check_queue: No jobs on queue
+08-12-2015 15:38:54: 13661: check_queue: No jobs on queue
+08-12-2015 15:38:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:38:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:38:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:38:59: 13661: check_queue: No jobs on queue
+08-12-2015 15:39:04: 13661: check_queue: No jobs on queue
+08-12-2015 15:39:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:39:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:39:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:39:09: 13661: check_queue: No jobs on queue
+08-12-2015 15:39:14: 13661: check_queue: No jobs on queue
+08-12-2015 15:39:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:39:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:39:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:39:19: 13661: check_queue: No jobs on queue
+08-12-2015 15:39:24: 13661: check_queue: No jobs on queue
+08-12-2015 15:39:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:39:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:39:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:39:29: 13661: check_queue: No jobs on queue
+08-12-2015 15:39:34: 13661: check_queue: No jobs on queue
+08-12-2015 15:39:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:39:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:39:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:39:39: 13661: check_queue: No jobs on queue
+08-12-2015 15:39:44: 13661: check_queue: No jobs on queue
+08-12-2015 15:39:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:39:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:39:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:39:49: 13661: check_queue: No jobs on queue
+08-12-2015 15:39:54: 13661: check_queue: No jobs on queue
+08-12-2015 15:39:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:39:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:39:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:39:59: 13661: check_queue: No jobs on queue
+08-12-2015 15:40:04: 13661: check_queue: No jobs on queue
+08-12-2015 15:40:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:40:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:40:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:40:09: 13661: check_queue: No jobs on queue
+08-12-2015 15:40:14: 13661: check_queue: No jobs on queue
+08-12-2015 15:40:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:40:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:40:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:40:19: 13661: check_queue: No jobs on queue
+08-12-2015 15:40:24: 13661: check_queue: No jobs on queue
+08-12-2015 15:40:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:40:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:40:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:40:29: 13661: check_queue: No jobs on queue
+08-12-2015 15:40:34: 13661: check_queue: No jobs on queue
+08-12-2015 15:40:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:40:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:40:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:40:39: 13661: check_queue: No jobs on queue
+08-12-2015 15:40:44: 13661: check_queue: No jobs on queue
+08-12-2015 15:40:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:40:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:40:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:40:49: 13661: check_queue: No jobs on queue
+08-12-2015 15:40:54: 13661: check_queue: No jobs on queue
+08-12-2015 15:40:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:40:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:40:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:40:59: 13661: check_queue: No jobs on queue
+08-12-2015 15:41:04: 13661: check_queue: No jobs on queue
+08-12-2015 15:41:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:41:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:41:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:41:09: 13661: check_queue: No jobs on queue
+08-12-2015 15:41:14: 13661: check_queue: No jobs on queue
+08-12-2015 15:41:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:41:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:41:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:41:19: 13661: check_queue: No jobs on queue
+08-12-2015 15:41:24: 13661: check_queue: No jobs on queue
+08-12-2015 15:41:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:41:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:41:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:41:30: 13661: check_queue: No jobs on queue
+08-12-2015 15:41:35: 13661: check_queue: No jobs on queue
+08-12-2015 15:41:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:41:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:41:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:41:40: 13661: check_queue: No jobs on queue
+08-12-2015 15:41:45: 13661: check_queue: No jobs on queue
+08-12-2015 15:41:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:41:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:41:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:41:50: 13661: check_queue: No jobs on queue
+08-12-2015 15:41:55: 13661: check_queue: No jobs on queue
+08-12-2015 15:41:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:41:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:41:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:42:00: 13661: check_queue: No jobs on queue
+08-12-2015 15:42:05: 13661: check_queue: No jobs on queue
+08-12-2015 15:42:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:42:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:42:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:42:10: 13661: check_queue: No jobs on queue
+08-12-2015 15:42:15: 13661: check_queue: No jobs on queue
+08-12-2015 15:42:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:42:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:42:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:42:20: 13661: check_queue: No jobs on queue
+08-12-2015 15:42:25: 13661: check_queue: No jobs on queue
+08-12-2015 15:42:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:42:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:42:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:42:30: 13661: check_queue: No jobs on queue
+08-12-2015 15:42:35: 13661: check_queue: No jobs on queue
+08-12-2015 15:42:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:42:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:42:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:42:40: 13661: check_queue: No jobs on queue
+08-12-2015 15:42:45: 13661: check_queue: No jobs on queue
+08-12-2015 15:42:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:42:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:42:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:42:50: 13661: check_queue: No jobs on queue
+08-12-2015 15:42:55: 13661: check_queue: No jobs on queue
+08-12-2015 15:42:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:42:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:42:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:43:00: 13661: check_queue: No jobs on queue
+08-12-2015 15:43:05: 13661: check_queue: No jobs on queue
+08-12-2015 15:43:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:43:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:43:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:43:10: 13661: check_queue: No jobs on queue
+08-12-2015 15:43:15: 13661: check_queue: No jobs on queue
+08-12-2015 15:43:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:43:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:43:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:43:20: 13661: check_queue: No jobs on queue
+08-12-2015 15:43:25: 13661: check_queue: No jobs on queue
+08-12-2015 15:43:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:43:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:43:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:43:30: 13661: check_queue: No jobs on queue
+08-12-2015 15:43:35: 13661: check_queue: No jobs on queue
+08-12-2015 15:43:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:43:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:43:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:43:40: 13661: check_queue: No jobs on queue
+08-12-2015 15:43:45: 13661: check_queue: No jobs on queue
+08-12-2015 15:43:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:43:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:43:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:43:50: 13661: check_queue: No jobs on queue
+08-12-2015 15:43:55: 13661: check_queue: No jobs on queue
+08-12-2015 15:43:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:43:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:43:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:44:00: 13661: check_queue: No jobs on queue
+08-12-2015 15:44:05: 13661: check_queue: No jobs on queue
+08-12-2015 15:44:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:44:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:44:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:44:10: 13661: check_queue: No jobs on queue
+08-12-2015 15:44:15: 13661: check_queue: No jobs on queue
+08-12-2015 15:44:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:44:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:44:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:44:20: 13661: check_queue: No jobs on queue
+08-12-2015 15:44:25: 13661: check_queue: No jobs on queue
+08-12-2015 15:44:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:44:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:44:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:44:30: 13661: check_queue: No jobs on queue
+08-12-2015 15:44:35: 13661: check_queue: No jobs on queue
+08-12-2015 15:44:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:44:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:44:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:44:40: 13661: check_queue: No jobs on queue
+08-12-2015 15:44:45: 13661: check_queue: No jobs on queue
+08-12-2015 15:44:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:44:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:44:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:44:50: 13661: check_queue: No jobs on queue
+08-12-2015 15:44:55: 13661: check_queue: No jobs on queue
+08-12-2015 15:44:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:44:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:44:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:45:00: 13661: check_queue: No jobs on queue
+08-12-2015 15:45:05: 13661: check_queue: No jobs on queue
+08-12-2015 15:45:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:45:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:45:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:45:10: 13661: check_queue: No jobs on queue
+08-12-2015 15:45:15: 13661: check_queue: No jobs on queue
+08-12-2015 15:45:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:45:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:45:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:45:20: 13661: check_queue: No jobs on queue
+08-12-2015 15:45:25: 13661: check_queue: No jobs on queue
+08-12-2015 15:45:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:45:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:45:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:45:30: 13661: check_queue: No jobs on queue
+08-12-2015 15:45:35: 13661: check_queue: No jobs on queue
+08-12-2015 15:45:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:45:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:45:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:45:40: 13661: check_queue: No jobs on queue
+08-12-2015 15:45:45: 13661: check_queue: No jobs on queue
+08-12-2015 15:45:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:45:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:45:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:45:50: 13661: check_queue: No jobs on queue
+08-12-2015 15:45:55: 13661: check_queue: No jobs on queue
+08-12-2015 15:45:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:45:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:45:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:46:00: 13661: check_queue: No jobs on queue
+08-12-2015 15:46:05: 13661: check_queue: No jobs on queue
+08-12-2015 15:46:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:46:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:46:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:46:10: 13661: check_queue: No jobs on queue
+08-12-2015 15:46:15: 13661: check_queue: No jobs on queue
+08-12-2015 15:46:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:46:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:46:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:46:20: 13661: check_queue: No jobs on queue
+08-12-2015 15:46:25: 13661: check_queue: No jobs on queue
+08-12-2015 15:46:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:46:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:46:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:46:30: 13661: check_queue: No jobs on queue
+08-12-2015 15:46:35: 13661: check_queue: No jobs on queue
+08-12-2015 15:46:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:46:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:46:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:46:40: 13661: check_queue: No jobs on queue
+08-12-2015 15:46:45: 13661: check_queue: No jobs on queue
+08-12-2015 15:46:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:46:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:46:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:46:50: 13661: check_queue: No jobs on queue
+08-12-2015 15:46:55: 13661: check_queue: No jobs on queue
+08-12-2015 15:46:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:46:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:46:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:47:00: 13661: check_queue: No jobs on queue
+08-12-2015 15:47:05: 13661: check_queue: No jobs on queue
+08-12-2015 15:47:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:47:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:47:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:47:10: 13661: check_queue: No jobs on queue
+08-12-2015 15:47:15: 13661: check_queue: No jobs on queue
+08-12-2015 15:47:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:47:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:47:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:47:20: 13661: check_queue: No jobs on queue
+08-12-2015 15:47:25: 13661: check_queue: No jobs on queue
+08-12-2015 15:47:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:47:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:47:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:47:30: 13661: check_queue: No jobs on queue
+08-12-2015 15:47:35: 13661: check_queue: No jobs on queue
+08-12-2015 15:47:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:47:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:47:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:47:40: 13661: check_queue: No jobs on queue
+08-12-2015 15:47:45: 13661: check_queue: No jobs on queue
+08-12-2015 15:47:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:47:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:47:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:47:50: 13661: check_queue: No jobs on queue
+08-12-2015 15:47:55: 13661: check_queue: No jobs on queue
+08-12-2015 15:47:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:47:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:47:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:48:00: 13661: check_queue: No jobs on queue
+08-12-2015 15:48:05: 13661: check_queue: No jobs on queue
+08-12-2015 15:48:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:48:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:48:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:48:10: 13661: check_queue: No jobs on queue
+08-12-2015 15:48:15: 13661: check_queue: No jobs on queue
+08-12-2015 15:48:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:48:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:48:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:48:20: 13661: check_queue: No jobs on queue
+08-12-2015 15:48:25: 13661: check_queue: No jobs on queue
+08-12-2015 15:48:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:48:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:48:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:48:30: 13661: check_queue: No jobs on queue
+08-12-2015 15:48:35: 13661: check_queue: No jobs on queue
+08-12-2015 15:48:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:48:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:48:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:48:40: 13661: check_queue: No jobs on queue
+08-12-2015 15:48:45: 13661: check_queue: No jobs on queue
+08-12-2015 15:48:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:48:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:48:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:48:50: 13661: check_queue: No jobs on queue
+08-12-2015 15:48:55: 13661: check_queue: No jobs on queue
+08-12-2015 15:48:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:48:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:48:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:49:00: 13661: check_queue: No jobs on queue
+08-12-2015 15:49:05: 13661: check_queue: No jobs on queue
+08-12-2015 15:49:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:49:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:49:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:49:10: 13661: check_queue: No jobs on queue
+08-12-2015 15:49:15: 13661: check_queue: No jobs on queue
+08-12-2015 15:49:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:49:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:49:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:49:20: 13661: check_queue: No jobs on queue
+08-12-2015 15:49:25: 13661: check_queue: No jobs on queue
+08-12-2015 15:49:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:49:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:49:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:49:30: 13661: check_queue: No jobs on queue
+08-12-2015 15:49:35: 13661: check_queue: No jobs on queue
+08-12-2015 15:49:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:49:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:49:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:49:40: 13661: check_queue: No jobs on queue
+08-12-2015 15:49:45: 13661: check_queue: No jobs on queue
+08-12-2015 15:49:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:49:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:49:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:49:50: 13661: check_queue: No jobs on queue
+08-12-2015 15:49:55: 13661: check_queue: No jobs on queue
+08-12-2015 15:49:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:49:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:49:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:50:00: 13661: check_queue: No jobs on queue
+08-12-2015 15:50:05: 13661: check_queue: No jobs on queue
+08-12-2015 15:50:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:50:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:50:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:50:10: 13661: check_queue: No jobs on queue
+08-12-2015 15:50:15: 13661: check_queue: No jobs on queue
+08-12-2015 15:50:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:50:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:50:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:50:20: 13661: check_queue: No jobs on queue
+08-12-2015 15:50:25: 13661: check_queue: No jobs on queue
+08-12-2015 15:50:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:50:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:50:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:50:30: 13661: check_queue: No jobs on queue
+08-12-2015 15:50:35: 13661: check_queue: No jobs on queue
+08-12-2015 15:50:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:50:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:50:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:50:40: 13661: check_queue: No jobs on queue
+08-12-2015 15:50:45: 13661: check_queue: No jobs on queue
+08-12-2015 15:50:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:50:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:50:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:50:50: 13661: check_queue: No jobs on queue
+08-12-2015 15:50:55: 13661: check_queue: No jobs on queue
+08-12-2015 15:50:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:50:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:50:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:51:00: 13661: check_queue: No jobs on queue
+08-12-2015 15:51:05: 13661: check_queue: No jobs on queue
+08-12-2015 15:51:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:51:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:51:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:51:10: 13661: check_queue: No jobs on queue
+08-12-2015 15:51:15: 13661: check_queue: No jobs on queue
+08-12-2015 15:51:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:51:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:51:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:51:20: 13661: check_queue: No jobs on queue
+08-12-2015 15:51:25: 13661: check_queue: No jobs on queue
+08-12-2015 15:51:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:51:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:51:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:51:30: 13661: check_queue: No jobs on queue
+08-12-2015 15:51:35: 13661: check_queue: No jobs on queue
+08-12-2015 15:51:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:51:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:51:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:51:40: 13661: check_queue: No jobs on queue
+08-12-2015 15:51:45: 13661: check_queue: No jobs on queue
+08-12-2015 15:51:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:51:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:51:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:51:50: 13661: check_queue: No jobs on queue
+08-12-2015 15:51:55: 13661: check_queue: No jobs on queue
+08-12-2015 15:51:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:51:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:51:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:52:00: 13661: check_queue: No jobs on queue
+08-12-2015 15:52:05: 13661: check_queue: No jobs on queue
+08-12-2015 15:52:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:52:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:52:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:52:10: 13661: check_queue: No jobs on queue
+08-12-2015 15:52:15: 13661: check_queue: No jobs on queue
+08-12-2015 15:52:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:52:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:52:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:52:20: 13661: check_queue: No jobs on queue
+08-12-2015 15:52:25: 13661: check_queue: No jobs on queue
+08-12-2015 15:52:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:52:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:52:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:52:30: 13661: check_queue: No jobs on queue
+08-12-2015 15:52:35: 13661: check_queue: No jobs on queue
+08-12-2015 15:52:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:52:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:52:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:52:40: 13661: check_queue: No jobs on queue
+08-12-2015 15:52:45: 13661: check_queue: No jobs on queue
+08-12-2015 15:52:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:52:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:52:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:52:50: 13661: check_queue: No jobs on queue
+08-12-2015 15:52:55: 13661: check_queue: No jobs on queue
+08-12-2015 15:52:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:52:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:52:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:53:00: 13661: check_queue: No jobs on queue
+08-12-2015 15:53:05: 13661: check_queue: No jobs on queue
+08-12-2015 15:53:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:53:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:53:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:53:10: 13661: check_queue: No jobs on queue
+08-12-2015 15:53:15: 13661: check_queue: No jobs on queue
+08-12-2015 15:53:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:53:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:53:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:53:20: 13661: check_queue: No jobs on queue
+08-12-2015 15:53:25: 13661: check_queue: No jobs on queue
+08-12-2015 15:53:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:53:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:53:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:53:30: 13661: check_queue: No jobs on queue
+08-12-2015 15:53:35: 13661: check_queue: No jobs on queue
+08-12-2015 15:53:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:53:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:53:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:53:40: 13661: check_queue: No jobs on queue
+08-12-2015 15:53:45: 13661: check_queue: No jobs on queue
+08-12-2015 15:53:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:53:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:53:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:53:50: 13661: check_queue: No jobs on queue
+08-12-2015 15:53:55: 13661: check_queue: No jobs on queue
+08-12-2015 15:53:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:53:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:53:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:54:00: 13661: check_queue: No jobs on queue
+08-12-2015 15:54:05: 13661: check_queue: No jobs on queue
+08-12-2015 15:54:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:54:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:54:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:54:10: 13661: check_queue: No jobs on queue
+08-12-2015 15:54:15: 13661: check_queue: No jobs on queue
+08-12-2015 15:54:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:54:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:54:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:54:20: 13661: check_queue: No jobs on queue
+08-12-2015 15:54:25: 13661: check_queue: No jobs on queue
+08-12-2015 15:54:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:54:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:54:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:54:30: 13661: check_queue: No jobs on queue
+08-12-2015 15:54:35: 13661: check_queue: No jobs on queue
+08-12-2015 15:54:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:54:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:54:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:54:40: 13661: check_queue: No jobs on queue
+08-12-2015 15:54:45: 13661: check_queue: No jobs on queue
+08-12-2015 15:54:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:54:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:54:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:54:50: 13661: check_queue: No jobs on queue
+08-12-2015 15:54:55: 13661: check_queue: No jobs on queue
+08-12-2015 15:54:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:54:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:54:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:55:00: 13661: check_queue: No jobs on queue
+08-12-2015 15:55:05: 13661: check_queue: No jobs on queue
+08-12-2015 15:55:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:55:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:55:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:55:10: 13661: check_queue: No jobs on queue
+08-12-2015 15:55:15: 13661: check_queue: No jobs on queue
+08-12-2015 15:55:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:55:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:55:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:55:20: 13661: check_queue: No jobs on queue
+08-12-2015 15:55:25: 13661: check_queue: No jobs on queue
+08-12-2015 15:55:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:55:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:55:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:55:30: 13661: check_queue: No jobs on queue
+08-12-2015 15:55:35: 13661: check_queue: No jobs on queue
+08-12-2015 15:55:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:55:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:55:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:55:40: 13661: check_queue: No jobs on queue
+08-12-2015 15:55:45: 13661: check_queue: No jobs on queue
+08-12-2015 15:55:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:55:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:55:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:55:50: 13661: check_queue: No jobs on queue
+08-12-2015 15:55:55: 13661: check_queue: No jobs on queue
+08-12-2015 15:55:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:55:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:55:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:56:00: 13661: check_queue: No jobs on queue
+08-12-2015 15:56:05: 13661: check_queue: No jobs on queue
+08-12-2015 15:56:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:56:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:56:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:56:10: 13661: check_queue: No jobs on queue
+08-12-2015 15:56:15: 13661: check_queue: No jobs on queue
+08-12-2015 15:56:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:56:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:56:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:56:20: 13661: check_queue: No jobs on queue
+08-12-2015 15:56:25: 13661: check_queue: No jobs on queue
+08-12-2015 15:56:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:56:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:56:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:56:30: 13661: check_queue: No jobs on queue
+08-12-2015 15:56:35: 13661: check_queue: No jobs on queue
+08-12-2015 15:56:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:56:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:56:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:56:40: 13661: check_queue: No jobs on queue
+08-12-2015 15:56:45: 13661: check_queue: No jobs on queue
+08-12-2015 15:56:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:56:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:56:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:56:50: 13661: check_queue: No jobs on queue
+08-12-2015 15:56:55: 13661: check_queue: No jobs on queue
+08-12-2015 15:56:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:56:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:56:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:57:00: 13661: check_queue: No jobs on queue
+08-12-2015 15:57:05: 13661: check_queue: No jobs on queue
+08-12-2015 15:57:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:57:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:57:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:57:10: 13661: check_queue: No jobs on queue
+08-12-2015 15:57:15: 13661: check_queue: No jobs on queue
+08-12-2015 15:57:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:57:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:57:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:57:20: 13661: check_queue: No jobs on queue
+08-12-2015 15:57:25: 13661: check_queue: No jobs on queue
+08-12-2015 15:57:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:57:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:57:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:57:30: 13661: check_queue: No jobs on queue
+08-12-2015 15:57:35: 13661: check_queue: No jobs on queue
+08-12-2015 15:57:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:57:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:57:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:57:40: 13661: check_queue: No jobs on queue
+08-12-2015 15:57:45: 13661: check_queue: No jobs on queue
+08-12-2015 15:57:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:57:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:57:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:57:50: 13661: check_queue: No jobs on queue
+08-12-2015 15:57:55: 13661: check_queue: No jobs on queue
+08-12-2015 15:57:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:57:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:57:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:58:00: 13661: check_queue: No jobs on queue
+08-12-2015 15:58:05: 13661: check_queue: No jobs on queue
+08-12-2015 15:58:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:58:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:58:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:58:10: 13661: check_queue: No jobs on queue
+08-12-2015 15:58:15: 13661: check_queue: No jobs on queue
+08-12-2015 15:58:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:58:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:58:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:58:20: 13661: check_queue: No jobs on queue
+08-12-2015 15:58:25: 13661: check_queue: No jobs on queue
+08-12-2015 15:58:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:58:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:58:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:58:30: 13661: check_queue: No jobs on queue
+08-12-2015 15:58:35: 13661: check_queue: No jobs on queue
+08-12-2015 15:58:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:58:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:58:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:58:40: 13661: check_queue: No jobs on queue
+08-12-2015 15:58:45: 13661: check_queue: No jobs on queue
+08-12-2015 15:58:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:58:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:58:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:58:50: 13661: check_queue: No jobs on queue
+08-12-2015 15:58:55: 13661: check_queue: No jobs on queue
+08-12-2015 15:58:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:58:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:58:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:59:00: 13661: check_queue: No jobs on queue
+08-12-2015 15:59:05: 13661: check_queue: No jobs on queue
+08-12-2015 15:59:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:59:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:59:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:59:10: 13661: check_queue: No jobs on queue
+08-12-2015 15:59:15: 13661: check_queue: No jobs on queue
+08-12-2015 15:59:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:59:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:59:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:59:20: 13661: check_queue: No jobs on queue
+08-12-2015 15:59:25: 13661: check_queue: No jobs on queue
+08-12-2015 15:59:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:59:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:59:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:59:30: 13661: check_queue: No jobs on queue
+08-12-2015 15:59:35: 13661: check_queue: No jobs on queue
+08-12-2015 15:59:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:59:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:59:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:59:40: 13661: check_queue: No jobs on queue
+08-12-2015 15:59:45: 13661: check_queue: No jobs on queue
+08-12-2015 15:59:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:59:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:59:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 15:59:50: 13661: check_queue: No jobs on queue
+08-12-2015 15:59:55: 13661: check_queue: No jobs on queue
+08-12-2015 15:59:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 15:59:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 15:59:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:00:00: 13661: check_queue: No jobs on queue
+08-12-2015 16:00:05: 13661: check_queue: No jobs on queue
+08-12-2015 16:00:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:00:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:00:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:00:10: 13661: check_queue: No jobs on queue
+08-12-2015 16:00:15: 13661: check_queue: No jobs on queue
+08-12-2015 16:00:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:00:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:00:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:00:20: 13661: check_queue: No jobs on queue
+08-12-2015 16:00:25: 13661: check_queue: No jobs on queue
+08-12-2015 16:00:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:00:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:00:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:00:30: 13661: check_queue: No jobs on queue
+08-12-2015 16:00:35: 13661: check_queue: No jobs on queue
+08-12-2015 16:00:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:00:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:00:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:00:40: 13661: check_queue: No jobs on queue
+08-12-2015 16:00:45: 13661: check_queue: No jobs on queue
+08-12-2015 16:00:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:00:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:00:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:00:50: 13661: check_queue: No jobs on queue
+08-12-2015 16:00:55: 13661: check_queue: No jobs on queue
+08-12-2015 16:00:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:00:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:00:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:01:00: 13661: check_queue: No jobs on queue
+08-12-2015 16:01:06: 13661: check_queue: No jobs on queue
+08-12-2015 16:01:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:01:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:01:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:01:11: 13661: check_queue: No jobs on queue
+08-12-2015 16:01:16: 13661: check_queue: No jobs on queue
+08-12-2015 16:01:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:01:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:01:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:01:21: 13661: check_queue: No jobs on queue
+08-12-2015 16:01:26: 13661: check_queue: No jobs on queue
+08-12-2015 16:01:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:01:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:01:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:01:31: 13661: check_queue: No jobs on queue
+08-12-2015 16:01:36: 13661: check_queue: No jobs on queue
+08-12-2015 16:01:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:01:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:01:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:01:41: 13661: check_queue: No jobs on queue
+08-12-2015 16:01:46: 13661: check_queue: No jobs on queue
+08-12-2015 16:01:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:01:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:01:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:01:51: 13661: check_queue: No jobs on queue
+08-12-2015 16:01:56: 13661: check_queue: No jobs on queue
+08-12-2015 16:01:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:01:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:01:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:02:01: 13661: check_queue: No jobs on queue
+08-12-2015 16:02:06: 13661: check_queue: No jobs on queue
+08-12-2015 16:02:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:02:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:02:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:02:11: 13661: check_queue: No jobs on queue
+08-12-2015 16:02:16: 13661: check_queue: No jobs on queue
+08-12-2015 16:02:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:02:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:02:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:02:21: 13661: check_queue: No jobs on queue
+08-12-2015 16:02:26: 13661: check_queue: No jobs on queue
+08-12-2015 16:02:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:02:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:02:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:02:31: 13661: check_queue: No jobs on queue
+08-12-2015 16:02:36: 13661: check_queue: No jobs on queue
+08-12-2015 16:02:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:02:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:02:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:02:41: 13661: check_queue: No jobs on queue
+08-12-2015 16:02:46: 13661: check_queue: No jobs on queue
+08-12-2015 16:02:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:02:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:02:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:02:51: 13661: check_queue: No jobs on queue
+08-12-2015 16:02:56: 13661: check_queue: No jobs on queue
+08-12-2015 16:02:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:02:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:02:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:03:01: 13661: check_queue: No jobs on queue
+08-12-2015 16:03:06: 13661: check_queue: No jobs on queue
+08-12-2015 16:03:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:03:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:03:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:03:11: 13661: check_queue: No jobs on queue
+08-12-2015 16:03:16: 13661: check_queue: No jobs on queue
+08-12-2015 16:03:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:03:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:03:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:03:21: 13661: check_queue: No jobs on queue
+08-12-2015 16:03:26: 13661: check_queue: No jobs on queue
+08-12-2015 16:03:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:03:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:03:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:03:31: 13661: check_queue: No jobs on queue
+08-12-2015 16:03:36: 13661: check_queue: No jobs on queue
+08-12-2015 16:03:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:03:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:03:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:03:41: 13661: check_queue: No jobs on queue
+08-12-2015 16:03:46: 13661: check_queue: No jobs on queue
+08-12-2015 16:03:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:03:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:03:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:03:51: 13661: check_queue: No jobs on queue
+08-12-2015 16:03:56: 13661: check_queue: No jobs on queue
+08-12-2015 16:03:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:03:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:03:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:04:01: 13661: check_queue: No jobs on queue
+08-12-2015 16:04:06: 13661: check_queue: No jobs on queue
+08-12-2015 16:04:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:04:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:04:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:04:11: 13661: check_queue: No jobs on queue
+08-12-2015 16:04:16: 13661: check_queue: No jobs on queue
+08-12-2015 16:04:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:04:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:04:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:04:21: 13661: check_queue: No jobs on queue
+08-12-2015 16:04:26: 13661: check_queue: No jobs on queue
+08-12-2015 16:04:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:04:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:04:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:04:31: 13661: check_queue: No jobs on queue
+08-12-2015 16:04:36: 13661: check_queue: No jobs on queue
+08-12-2015 16:04:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:04:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:04:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:04:41: 13661: check_queue: No jobs on queue
+08-12-2015 16:04:46: 13661: check_queue: No jobs on queue
+08-12-2015 16:04:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:04:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:04:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:04:51: 13661: check_queue: No jobs on queue
+08-12-2015 16:04:56: 13661: check_queue: No jobs on queue
+08-12-2015 16:04:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:04:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:04:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:05:01: 13661: check_queue: No jobs on queue
+08-12-2015 16:05:06: 13661: check_queue: No jobs on queue
+08-12-2015 16:05:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:05:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:05:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:05:11: 13661: check_queue: No jobs on queue
+08-12-2015 16:05:16: 13661: check_queue: No jobs on queue
+08-12-2015 16:05:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:05:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:05:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:05:21: 13661: check_queue: No jobs on queue
+08-12-2015 16:05:26: 13661: check_queue: No jobs on queue
+08-12-2015 16:05:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:05:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:05:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:05:31: 13661: check_queue: No jobs on queue
+08-12-2015 16:05:36: 13661: check_queue: No jobs on queue
+08-12-2015 16:05:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:05:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:05:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:05:41: 13661: check_queue: No jobs on queue
+08-12-2015 16:05:46: 13661: check_queue: No jobs on queue
+08-12-2015 16:05:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:05:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:05:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:05:51: 13661: check_queue: No jobs on queue
+08-12-2015 16:05:56: 13661: check_queue: No jobs on queue
+08-12-2015 16:05:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:05:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:05:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:06:01: 13661: check_queue: No jobs on queue
+08-12-2015 16:06:06: 13661: check_queue: No jobs on queue
+08-12-2015 16:06:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:06:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:06:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:06:11: 13661: check_queue: No jobs on queue
+08-12-2015 16:06:16: 13661: check_queue: No jobs on queue
+08-12-2015 16:06:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:06:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:06:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:06:21: 13661: check_queue: No jobs on queue
+08-12-2015 16:06:26: 13661: check_queue: No jobs on queue
+08-12-2015 16:06:27: 13658: check_calendar: debug: Number of calendar jobs past due 2
+08-12-2015 16:06:27: 13658: check_calendar: debug: New Batch Created new
+08-12-2015 16:06:27: 13658: check_calendar: debug: Calendar info obtained
+08-12-2015 16:06:27: 13658: check_calendar: debug: Batch 7 updated
+08-12-2015 16:06:27: 13658: check_calendar: debug: Calendar entry for job 7 updated with batch 7
+08-12-2015 16:06:27: 13658: check_calendar: Starting loading job:7, batch:7
+08-12-2015 16:06:27: 13658: check_calendar: debug: Number of calendar jobs past due 1
+08-12-2015 16:06:27: 13658: check_calendar: debug: New Batch Created new
+08-12-2015 16:06:27: 13658: check_calendar: debug: Calendar info obtained
+08-12-2015 16:06:27: 13658: check_calendar: debug: Batch 8 updated
+08-12-2015 16:06:27: 13658: check_calendar: debug: Calendar entry for job 9 updated with batch 8
+08-12-2015 16:06:27: 13658: check_calendar: Starting loading job:9, batch:8
+08-12-2015 16:06:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:06:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:06:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:06:27: 15716: load_to_queue: Loading job 7 from batch 7 to queue table
+08-12-2015 16:06:27: 15716: load_to_queue: Getting records from calendar, list and contact tables
+08-12-2015 16:06:27: 15716: load_to_queue: Updating batch 7 with 1 records
+08-12-2015 16:06:27: 15716: load_to_queue: Loading data into queue
+08-12-2015 16:06:27: 15718: load_to_queue: Loading job 9 from batch 8 to queue table
+08-12-2015 16:06:27: 15718: load_to_queue: Getting records from calendar, list and contact tables
+08-12-2015 16:06:27: 15718: load_to_queue: Updating batch 8 with 1 records
+08-12-2015 16:06:27: 15718: load_to_queue: Loading data into queue
+08-12-2015 16:06:27: 15716: load_to_queue: Updating calendar to Processing
+08-12-2015 16:06:27: 15718: load_to_queue: Updating calendar to Processing
+08-12-2015 16:06:28: 13661: check_queue: Loading data into queue
+08-12-2015 16:06:28: 13661: check_queue: Starting process:1439427249.2479, batch:7
+new PID: 15722   Process Pool Count  1
+08-12-2015 16:06:28: 13661: check_queue: Loading data into queue
+08-12-2015 16:06:28: 13661: check_queue: Starting process:1439427249.2571, batch:8
+new PID: 15724   Process Pool Count  2
+
+08-12-2015 16:06:28: 15722: process: debug: Procesing 1439427249.2479, 1 records found
+08-12-2015 16:06:28: 15722: process: Sending email msg
+
+08-12-2015 16:06:28: 15722: process: debug: Sending email
+
+08-12-2015 16:06:28: 15724: process: debug: Procesing 1439427249.2571, 1 records found
+08-12-2015 16:06:28: 15724: process: Sending facebook msg
+
+08-12-2015 16:06:28: 15724: process: debug: Sending facebook
+08-12-2015 16:06:28: 15724: process: debug: Msg Processed with error:1, msg: {"error":{"message":"Error validating access token: The session is invalid because the user logged out.","type":"OAuthException","code":190,"error_subcode":467}}
+08-12-2015 16:06:28: 15724: process: debug: Queue table updated
+08-12-2015 16:06:28: 15724: process: debug: Creating records in transaction
+08-12-2015 16:06:28: 15724: process: debug: Updating batch progress with 1 records
+08-12-2015 16:06:28: 15724: process: debug: Queue cleaned
+08-12-2015 16:06:29: 15722: process: debug: Msg Processed with error:0, msg: Success
+08-12-2015 16:06:29: 15722: process: debug: Queue table updated
+08-12-2015 16:06:29: 15722: process: debug: Creating records in transaction
+08-12-2015 16:06:29: 15722: process: debug: Updating batch progress with 1 records
+08-12-2015 16:06:29: 15722: process: debug: Queue cleaned
+08-12-2015 16:06:31: 13661: check_queue: No jobs on queue
+08-12-2015 16:06:32: 13658: check_calendar: Updating jobs status to completed
+08-12-2015 16:06:32: 13658: check_calendar: Updating jobs status to completed
+08-12-2015 16:06:36: 13661: check_queue: No jobs on queue
+08-12-2015 16:06:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:06:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:06:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:06:41: 13661: check_queue: No jobs on queue
+08-12-2015 16:06:46: 13661: check_queue: No jobs on queue
+08-12-2015 16:06:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:06:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:06:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:06:51: 13661: check_queue: No jobs on queue
+08-12-2015 16:06:56: 13661: check_queue: No jobs on queue
+08-12-2015 16:06:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:06:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:06:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:07:01: 13661: check_queue: No jobs on queue
+08-12-2015 16:07:06: 13661: check_queue: No jobs on queue
+08-12-2015 16:07:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:07:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:07:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:07:11: 13661: check_queue: No jobs on queue
+08-12-2015 16:07:16: 13661: check_queue: No jobs on queue
+08-12-2015 16:07:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:07:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:07:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:07:21: 13661: check_queue: No jobs on queue
+08-12-2015 16:07:26: 13661: check_queue: No jobs on queue
+08-12-2015 16:07:27: 13658: check_calendar: debug: Number of calendar jobs past due 1
+08-12-2015 16:07:27: 13658: check_calendar: debug: New Batch Created new
+08-12-2015 16:07:27: 13658: check_calendar: debug: Calendar info obtained
+08-12-2015 16:07:27: 13658: check_calendar: debug: Batch 9 updated
+08-12-2015 16:07:27: 13658: check_calendar: debug: Calendar entry for job 8 updated with batch 9
+08-12-2015 16:07:27: 13658: check_calendar: Starting loading job:8, batch:9
+08-12-2015 16:07:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:07:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:07:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:07:27: 15751: load_to_queue: Loading job 8 from batch 9 to queue table
+08-12-2015 16:07:27: 15751: load_to_queue: Getting records from calendar, list and contact tables
+08-12-2015 16:07:27: 15751: load_to_queue: Updating batch 9 with 1 records
+08-12-2015 16:07:27: 15751: load_to_queue: Loading data into queue
+08-12-2015 16:07:27: 15751: load_to_queue: Updating calendar to Processing
+08-12-2015 16:07:28: 13661: check_queue: Loading data into queue
+08-12-2015 16:07:28: 13661: check_queue: Starting process:1439427309.3172, batch:9
+new PID: 15754   Process Pool Count  1
+
+08-12-2015 16:07:28: 15754: process: debug: Procesing 1439427309.3172, 1 records found
+08-12-2015 16:07:28: 15754: process: Sending email msg
+
+08-12-2015 16:07:28: 15754: process: debug: Sending email
+08-12-2015 16:07:29: 15754: process: debug: Msg Processed with error:0, msg: Success
+08-12-2015 16:07:29: 15754: process: debug: Queue table updated
+08-12-2015 16:07:29: 15754: process: debug: Creating records in transaction
+08-12-2015 16:07:29: 15754: process: debug: Updating batch progress with 1 records
+08-12-2015 16:07:29: 15754: process: debug: Queue cleaned
+08-12-2015 16:07:31: 13661: check_queue: No jobs on queue
+08-12-2015 16:07:32: 13658: check_calendar: Updating jobs status to completed
+08-12-2015 16:07:36: 13661: check_queue: No jobs on queue
+08-12-2015 16:07:37: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:07:37: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:07:37: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:07:41: 13661: check_queue: No jobs on queue
+08-12-2015 16:07:46: 13661: check_queue: No jobs on queue
+08-12-2015 16:07:47: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:07:47: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:07:47: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:07:51: 13661: check_queue: No jobs on queue
+08-12-2015 16:07:56: 13661: check_queue: No jobs on queue
+08-12-2015 16:07:57: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:07:57: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:07:57: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:08:01: 13661: check_queue: No jobs on queue
+08-12-2015 16:08:06: 13661: check_queue: No jobs on queue
+08-12-2015 16:08:07: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:08:07: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:08:07: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:08:11: 13661: check_queue: No jobs on queue
+08-12-2015 16:08:16: 13661: check_queue: No jobs on queue
+08-12-2015 16:08:17: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:08:17: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:08:17: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:08:21: 13661: check_queue: No jobs on queue
+08-12-2015 16:08:26: 13661: check_queue: No jobs on queue
+08-12-2015 16:08:27: 13658: check_calendar: debug: Number of calendar jobs past due 0
+08-12-2015 16:08:27: 13658: check_calendar: No jobs on calendar to process
+08-12-2015 16:08:27: 13658: check_calendar: debug: 0 jobs on calendar completed
+08-12-2015 16:08:31: 13661: check_queue: No jobs on queue
+08-12-2015 16:08:36: 13661: check_queue: No jobs on queue
