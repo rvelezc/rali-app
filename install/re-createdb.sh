@@ -1,5 +1,5 @@
 #!/bin/bash
 cd database
 echo "(Re) Creating the database..."
-mysql -uroot       -p'passw0rd' < create.sql
+mysql -uroot       -p'' < create.sql
 
