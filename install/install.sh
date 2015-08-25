@@ -1,10 +1,10 @@
 #!/bin/bash
 cd database
 echo "(Re) Creating the database..."
-mysql -uroot       -p'passw0rd' < create.sql
+mysql -uroot       -p'' < create.sql
 
 echo "Creating data model..."
-mysql -urali -p'passw0rd' < model.sql
+mysql -urali -p'' < model.sql
 
 cd ../daemons
 echo "Installing Daemons..."
