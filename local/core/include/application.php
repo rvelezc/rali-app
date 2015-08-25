@@ -5,7 +5,7 @@ require_once('time.php');
 $RALI_GLOBAL = array();
 $RALI_GLOBAL['host']		= "192.168.1.40"; 
 $RALI_GLOBAL['user'] 		= "rali"; 
-$RALI_GLOBAL['pass'] 		= "passw0rd"; 
+$RALI_GLOBAL['pass'] 		= ""; 
 $RALI_GLOBAL['db_name']   	= "rali_marketing"; 
 
 
